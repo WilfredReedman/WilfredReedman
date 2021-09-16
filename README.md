@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @WilfredReedman
+- 👀 I’m interested in programming and stuff
+- 🌱 I’m currently learning programming and stuff
+- 💞️ I’m looking to collaborate on nothing
+- 📫 How to reach me ...
